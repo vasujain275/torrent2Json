@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">torrent2json</string>
+    <string name="main_activity_title">torrent2json</string>
+</resources>
